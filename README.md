@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Mohamed Sameer Hamad 👋
 
-<!--
-**sameer-codes-hub/sameer-codes-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Analyst | Machine Learning | NLP | Streamlit  
+📍 India · Open to Data Analyst roles in Singapore  
+🎓 BCA · Certified in Data Science & Generative AI / Prompt Engineering
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Featured projects
+
+| Project | Tech | Demo |
+|---------|------|------|
+| 🛒 Customer Segmentation Engine | K-Means, Scikit-learn, Streamlit | [Live App](YOUR_URL) |
+| 🏥 MedSQUAD Medical Chatbot | NLP, TF-IDF, MedQuAD, Streamlit | [Live App](YOUR_URL) |
+| 🚗 Used Car Price Prediction | Random Forest, 77% R² accuracy | [Repo](https://github.com/sameer-codes-hub/Data_Science_Project) |
+
+---
+
+## 🛠️ Skills
+
+`Python` `SQL` `Pandas` `NumPy` `Scikit-learn` `TensorFlow` `NLP` `Streamlit` `Git` `Matplotlib`
+
+---
+
+## 📬 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/mohamed-sameer-hamad-585489292)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/sameer-codes-hub)
