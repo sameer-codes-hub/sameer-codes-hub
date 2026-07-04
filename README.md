@@ -10,8 +10,8 @@
 
 | Project | Tech | Demo |
 |---------|------|------|
-| 🛒 Customer Segmentation Engine | K-Means, Scikit-learn, Streamlit | [Live App](YOUR_URL) |
-| 🏥 MedSQUAD Medical Chatbot | NLP, TF-IDF, MedQuAD, Streamlit | [Live App](YOUR_URL) |
+| 🛒 Customer Segmentation Engine | K-Means, Scikit-learn, Streamlit | [Live App](https://datascienceproject-3yjpeb8sts67untbeptaxp.streamlit.app/) |
+| 🏥 MedSQUAD Medical Chatbot | NLP, TF-IDF, MedQuAD, Streamlit | [Live App](https://medquad-chat-bot.streamlit.app/) |
 | 🚗 Used Car Price Prediction | Random Forest, 77% R² accuracy | [Repo](https://github.com/sameer-codes-hub/Data_Science_Project) |
 
 ---
